@@ -33,3 +33,7 @@ PowerShell:
     $env:SLACK_WEBHOOK_URL="URL_DEL_DOCENTE"
     $env:ALUMNO="Garay Jefferson"
     npm run pipeline
+
+## Prueba de CI
+
+Pull Request de prueba para verificar el workflow y la notificación a Slack.
