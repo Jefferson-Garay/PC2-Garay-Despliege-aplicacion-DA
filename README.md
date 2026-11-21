@@ -33,3 +33,7 @@ PowerShell:
     $env:SLACK_WEBHOOK_URL="URL_DEL_DOCENTE"
     $env:ALUMNO="Garay Jefferson"
     npm run pipeline
+
+## Evidencias
+
+Capturas del despliegue en Render, del CI y de las pruebas en la carpeta [`Evidencia-captura`](Evidencia-captura).
