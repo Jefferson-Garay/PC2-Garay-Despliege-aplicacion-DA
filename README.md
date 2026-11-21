@@ -22,9 +22,9 @@ Rutas: `/productos`, `/total?ids=1,2&cupon=DESC10`, `/health`, `/ready`.
 
 ## Despliegue (T5)
 
-- Plataforma: **Render** (Web Service, comando de inicio `npm start`, build `npm ci`).
-- URL pública: _pendiente – se completa al crear el servicio en Render desde este repositorio_.
-- Comprobación esperada: `GET <URL>/health` → `200 {"status":"ok"}`.
+- Plataforma: **Render** (Web Service, plan Free, build `npm ci`, comando de inicio `npm start`).
+- URL pública: https://tienda-api-garay.onrender.com
+- Comprobación: `GET https://tienda-api-garay.onrender.com/health` responde `200 {"status":"ok"}`.
 
 ## Uso de Slack
 
